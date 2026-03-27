@@ -1,5 +1,5 @@
 # AeroLoyalty: Membership Churn & Retention Analytics
-Case Study: National Chengchi University (NCCU) Data Analytics Club 5.0 
+National Chengchi University (NCCU) Data Analytics Club 5.0 
 
 ![K-Means Clustering Plot](data/images/da_cover.png)
 
