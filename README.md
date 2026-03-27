@@ -1,15 +1,14 @@
 # AeroLoyalty: Membership Churn & Retention Analytics
+Case Study: National Chengchi University (NCCU) Data Analytics Club 5.0 
 
-## Case Study: National Chengchi University (NCCU) Data Analytics Club 5.0 
-
-![K-Means Clustering Plot](da_cover.png)
+![K-Means Clustering Plot](data/images/da_cover.png)
 
 *Currently the report is only in Traditional Chinese. An English report is in progress.*
 
-📌 Project Overview
+## 📌 Project Overview
 This project investigates customer attrition within an airline's loyalty program. By analyzing a dataset of 400k+ flight records and 16k+ members, we developed a predictive understanding of member lifecycles. The goal was to transform raw behavioral data into a segmented retention strategy.
 
-Technical Implementation
+## Technical Implementation
 1. Data Engineering & Preprocessing
 - Feature Construction: Engineered metrics such as Flight Intensity (flights per month) and Point Velocity (rate of accrual vs. redemption).
 
@@ -33,7 +32,7 @@ We implemented K-Means Clustering to segment the base into four behavioural arch
 
 - Cluster 3 (Core Stable): Mid-tier travelers with high potential for loyalty "nudging."
 
-📈 Business Impact & Recommendations
+## 📈 Business Impact & Recommendations
 - The "First Flight" Nudge: Automated incentives triggered at Month 4 for members with zero redemptions.
 
 - Seasonal Capacity Optimization: Using "Off-Peak" (Spring/Autumn) point multipliers to drive engagement without sacrificing high-demand seat revenue.
